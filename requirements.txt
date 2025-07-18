@@ -134,7 +134,6 @@ jupyterlab-pygments==0.1.2
 jupyterlab-server==2.11.2
 jupyterlab-widgets==1.1.0
 keras==2.13.1
-kgt==0.4.7
 kiwisolver==1.4.0
 laspy==2.1.2
 leafmap==0.35.11
