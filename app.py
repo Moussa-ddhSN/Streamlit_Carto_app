@@ -16,7 +16,7 @@ if os.path.exists("style.css"):
 DOSSIER_SAUVEGARDE = "donnees_champs"
 os.makedirs(DOSSIER_SAUVEGARDE, exist_ok=True)
 
-st.title("📍 Numérisation des Placettes PROMUVER-SL")
+st.title("📍 Numérisation de Placettes d'inventaires")
 
 # Initialisation dataframe des espèces dans la session
 if "df_especes" not in st.session_state:
